@@ -3,7 +3,7 @@
 ### Задание 1
 
 
-![Скриншот-1](https://github.com/atsirkin/homework/blob/main/img_git/img1.png)
+![Скриншот-1](img_git/img1.png)
 ![Скриншот-2](https://github.com/atsirkin/homework/raw/main/img_git/img2.png)
 ![Скриншот-3](https://github.com/atsirkin/homework/raw/main/img_git/img3.png)
 ![Скриншот-4](https://github.com/atsirkin/homework/raw/main/img_git/img4.png)
